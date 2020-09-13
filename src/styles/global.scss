@@ -1,0 +1,31 @@
+:root {
+  --primary: #4064ac;
+  --background: #f7f7f7;
+  --textIn: #0000008a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  border: 0;
+}
+
+*,
+ul {
+  list-style: none;
+}
+
+*,
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+*,
+body,
+button,
+input {
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
